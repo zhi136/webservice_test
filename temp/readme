@@ -1,0 +1,5 @@
+
+
+
+#身份证随机生成需要安装 Beautifulsoup4模块
+pip install Beautifulsoup4
